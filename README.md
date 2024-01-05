@@ -136,7 +136,9 @@ I started working in the technology market in 2017 and am currently a Full Stack
 
 ## 🎓 Academic Education
 
+- React + Typescript Course - Origamid (11/2023 - 12/2023)
 - Bachelor Computer Science - Universidade Augusto Motta (01/2018 - 12/2022)
+- Jest Testing Course - Fabio Vedovelli (11/2021 - 02/2022)
 - React / Node.JS Course - Rocketseat (06/2021 - 12/2021)
 - React / Node.JS Course - Rocketseat (03/2020 - 09/2020)
 - Informational Technician - ETERJ/RJ (01/2015 - 12/2017)
