@@ -153,8 +153,8 @@ I started working in the technology market in 2017 and am currently a Full Stack
 <a href="https://www.linkedin.com/in/rafael-casanje/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://dev.to/casanje" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" /></a>
 <a href="https://www.instagram.com/casanje/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:rafael.casanje@gmail.com"><img src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.chess.com/member/casanje"><img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpwlfNic.png" width="100" target="_blank" /></a>
+<a href="mailto:rafael.casanje@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.chess.com/member/casanje" target="_blank"><img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpwlfNic.png" width="100" target="_blank" /></a>
 </div>
 
 <br>
