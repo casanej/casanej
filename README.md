@@ -98,7 +98,7 @@ I am a FullStack Developer, passionate about technology and programming. I have 
 
 ## 👩🏽‍💻 Professional
 
-I started working in the technology market in 2022 and am currently a Full Stack PHP Developer at BR24⚡
+I started working in the technology market in 2017 and am currently a Full Stack Developer in Mosaico⚡
 
 <br>
 <br>
