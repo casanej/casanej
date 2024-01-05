@@ -9,6 +9,7 @@ I am a FullStack Developer, passionate about technology and programming. I have 
 ## 🛠 Skills
 
 ### Languages
+<p>
 <img title="JavaScript" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img title="TypeScript" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 <img title="HTML" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -17,12 +18,12 @@ I am a FullStack Developer, passionate about technology and programming. I have 
 <img title="PHP" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img title="C" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img title="Java" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-<br>
+</p>
 
 ### Utility Tools
 
-<img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<p>
+  <img title="Linux" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img title="Debian" alt="Debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
   <img title="Terminal" alt="Terminal" height="40" width="40" src="https://cdn.svgporn.com/logos/terminal.svg" />
   <img title="Git" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -39,43 +40,49 @@ I am a FullStack Developer, passionate about technology and programming. I have 
   <img title="Docker" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   <img title="Pytest" alt="Pytest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
   <img title="AWS" alt="AWS" height="40" width="40" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
-  <br>
+</p>
 
 ### Frontend Tools
 
-<img title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-<img title="Bootstrap" alt="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img title="Styled Components" alt="Styled Components" height="40" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />
-<img title="Figma" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<br>
+<p>
+  <img title="React" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img title="Redux" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+  <img title="Bootstrap" alt="Bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img title="Styled Components" alt="Styled Components" height="40" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" />
+  <img title="Figma" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</p>
 
 ### Backend Tools
 
-<img title="Node.JS" alt="Node.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img title="Nest.JS" alt="Nest.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-<img title="MySQL" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img title="MongoDB" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img title="PostgreSQL" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img title="Express" alt="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img title="Sequelize" alt="Sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-<img title="Laravel" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<br />
+<p>
+  <img title="Node.JS" alt="Node.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img title="Nest.JS" alt="Nest.JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img title="MySQL" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img title="MongoDB" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img title="PostgreSQL" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img title="Express" alt="Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img title="Sequelize" alt="Sequelize" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <img title="Laravel" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+</p>
 
 ### Test / Monitoring Tools
-<img title="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" alt="jest" />
-<img title="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" alt="mocha" />
-<img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
-<img title="Cypress" src="https://static-00.iconduck.com/assets.00/cypress-icon-144x144-wdum32ye.png" width="40" alt="cypress" />
-<img title="New Relic" src="https://newrelic.com/themes/custom/erno/assets/mediakit/new_relic_logo_vertical.png" width="40" alt="new relic" />
+<p>
+  <img title="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" alt="jest" />
+  <img title="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40" alt="mocha" />
+  <img title="React Testing Library" alt="React Testing Library" width="40" height="40" src="https://testing-library.com/img/logo-large.png" />
+  <img title="Cypress" src="https://static-00.iconduck.com/assets.00/cypress-icon-144x144-wdum32ye.png" width="40" alt="cypress" />
+  <img title="New Relic" src="https://newrelic.com/themes/custom/erno/assets/mediakit/new_relic_logo_vertical.png" width="40" alt="new relic" />
+</p>
 
 ### Infra Tools
-<img title="RabbitMQ" src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png" width="40" alt="rabbitMq" />
-<img title="Github" src="https://static-00.iconduck.com/assets.00/githubactions-icon-512x512-jbpvj4ny.png" width="40" alt="githubActions" />
-<img title="Gitlab" src="https://static-00.iconduck.com/assets.00/gitlab-plain-wordmark-icon-512x510-2jy6wwwv.png" width="40" alt="gitlabCi" />
-<img title="AWS" src="https://static-00.iconduck.com/assets.00/aws-icon-512x306-hz71jncq.png" width="40" alt="aws" />
-<img title="GCP" src="https://static-00.iconduck.com/assets.00/gcp-color-icon-512x410-g12trk1y.png" width="40" alt="gcp" />
-<img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="firebase" />
+<p>
+  <img title="RabbitMQ" src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png" width="40" alt="rabbitMq" />
+  <img title="Github" src="https://static-00.iconduck.com/assets.00/githubactions-icon-512x512-jbpvj4ny.png" width="40" alt="githubActions" />
+  <img title="Gitlab" src="https://static-00.iconduck.com/assets.00/gitlab-plain-wordmark-icon-512x510-2jy6wwwv.png" width="40" alt="gitlabCi" />
+  <img title="AWS" src="https://static-00.iconduck.com/assets.00/aws-icon-512x306-hz71jncq.png" width="40" alt="aws" />
+  <img title="GCP" src="https://static-00.iconduck.com/assets.00/gcp-color-icon-512x410-g12trk1y.png" width="40" alt="gcp" />
+  <img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="firebase" />
+</p>
 
 
 <details>
