@@ -20,6 +20,8 @@ choco install mongodb-compass -y
 choco install mipony -y
 choco install postman -y
 choco install discord -y
+choco install winrar -y
+choco install blitz.gg -y
 
 choco install multimc -y
 choco install steam -y
