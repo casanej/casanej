@@ -12,16 +12,10 @@ choco install googlechrome -y
 choco install firefox -y
 choco install git -y
 choco install vscode -y
-choco install openvpn-connect -y
-choco install slack -y
-choco install authy-desktop -y
 choco install dbeaver -y
 choco install mongodb-compass -y
 choco install mipony -y
 choco install postman -y
 choco install discord -y
 choco install winrar -y
-choco install blitz.gg -y
-
-choco install multimc -y
 choco install steam -y
