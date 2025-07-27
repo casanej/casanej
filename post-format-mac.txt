@@ -1,0 +1,11 @@
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+brew install --cask google-chrome
+brew install --cask visual-studio-code
+brew install --cask steam
+brew install --cask discord
+
+brew install git
+brew install --cask dbeaver-community
+brew install --cask mongodb-compass
+brew install --cask postman
