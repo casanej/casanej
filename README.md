@@ -119,40 +119,13 @@ I started working in the technology market in 2017 and am currently a Full Stack
 
 <br> -->
 
-## 🖥 Professional Performance
-
-- ***Fullstack Mid*** Mosaico <!-- (02/2023 - Now) --> ∎ Skills: Javascript, Typescript, ReactJS, NodeJS, AWS (S3, Lambda, ECS, ECR, Cloudwatch), Java (Spring Boot)
-- ***Fullstack Mid*** Logshare <!-- (10/2022 - 03/2023) --> ∎ Skills: Javascript, Typescript, ReactJS, NodeJS, AWS (S3, SES)
-- ***Web3 Fullstack*** ProAK <!-- (07/2022 - 11/2022) --> ∎ Skills: Javascript, Typescript, Astro, Alchemy, Etherscan, Metamask
-- ***Frontend Mid*** Vertigo <!-- (10/2021 - 06/2022) --> ∎ Skills: Javascript, Typescript, ReactJS (Redux), Jest, Storybook GovBR (Design System), Figma, AWS Cognito
-- ***Frontend Mid*** 29 Analytics <!-- (03/2021 - 02/2022) --> ∎ Skills: Javascript, ReactJS (Redux, Nivo Rocks, Styled Components), Storybook, AdobeXD
-- ***Fullstack Junior*** i9 & r9 <!-- (02/2020 - 03/2021) --> ∎ Skills: Javascript, Typescript, ReactJS (Mobx), Storybook, Python (Django, Numpy, OpenCV), NodeJS, AWS S3, RabbitMQ, MySQL, Git, Figma
-- ***Fullstack Internship*** Hebara Distribuidora de Produtos Lotéricos <!-- (02/2019 - 02/2020) --> ∎ Skills: Javascript, ReactJS (Redux), Python (Django, Numpy, OpenCV), AWS S3, RabbitMQ, MySQL, Git
-- ***IT Internship*** Escola 24H <!-- (03/2018 - 10/2018) --> ∎ Skills: Javascript, Coldfusion, Excel, Word
-- ***Fullstack Apprenticeship*** Mark Building <!-- (06/2017 - 02/2018) --> ∎ Skills: HTML, CSS, JavaScript, PHP, MySQL
-
-<br>
-<br>
-
-## 🎓 Academic Education
-
-- React + Typescript Course - Origamid (11/2023 - 12/2023)
-- Bachelor Computer Science - Universidade Augusto Motta (01/2018 - 12/2022)
-- Jest Testing Course - Fabio Vedovelli (11/2021 - 02/2022)
-- React / Node.JS Course - Rocketseat (06/2021 - 12/2021)
-- React / Node.JS Course - Rocketseat (03/2020 - 09/2020)
-- Informational Technician - ETERJ/RJ (01/2015 - 12/2017)
-
-<br>
-
-
 ## 🤝🏾 Let's connect?
 
 <div align="center" style="display: inline_block">
 <a href="https://casanje.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-casanje/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://dev.to/casanje" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" /></a>
-<a href="https://www.instagram.com/casanje/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!-- <a href="https://www.instagram.com/casanje/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 <a href="mailto:rafael.casanje@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.chess.com/member/casanje" target="_blank"><img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpwlfNic.png" width="100" target="_blank" /></a>
 </div>
