@@ -96,13 +96,6 @@ I am a FullStack Developer, passionate about technology and programming. I have 
 
 <br>
 
-## 👩🏽‍💻 Professional
-
-I started working in the technology market in 2017 and am currently a Full Stack Developer in Mosaico⚡
-
-<br>
-<br>
-
 <!-- ## 🌎 Open Source Projects
 
 <br> -->
@@ -130,7 +123,5 @@ I started working in the technology market in 2017 and am currently a Full Stack
 <a href="https://www.chess.com/member/casanje" target="_blank"><img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpwlfNic.png" width="100" target="_blank" /></a>
 </div>
 
-<br>
-<br>
 <br>
 <br>
